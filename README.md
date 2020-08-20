@@ -25,4 +25,5 @@ The script does the following:
 - creates an independent tidy data set with the average of each variable for each activity and each subject, by creating a column that combines the activity and subject columns,
   and calculating the means of each variable in the data set grouped by this new activity-subject column
 - writes the resulting data set to a file
+
 The 'run_analysis.R' script file contains a section headed by a ##comment## for each of the required tasks.
